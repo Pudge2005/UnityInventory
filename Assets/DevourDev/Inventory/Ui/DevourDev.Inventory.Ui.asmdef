@@ -1,0 +1,18 @@
+{
+    "name": "DevourDev.Inventory.Ui",
+    "rootNamespace": "DevourDev.Inventory.Ui",
+    "references": [
+        "GUID:3ea3844cf98f1464ab19ccac2df5c09e",
+        "GUID:bf12bea4899d7cc49878852e6389ddec",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

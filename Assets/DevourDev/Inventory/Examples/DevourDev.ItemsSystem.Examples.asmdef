@@ -1,0 +1,16 @@
+{
+    "name": "DevourDev.ItemsSystem.Examples",
+    "rootNamespace": "DevourDev.ItemsSystem.Examples",
+    "references": [
+        "GUID:3ea3844cf98f1464ab19ccac2df5c09e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
